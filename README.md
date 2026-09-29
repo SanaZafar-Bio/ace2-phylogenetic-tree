@@ -14,7 +14,7 @@ Sequences from six species were compared: human, cat, dog, mouse, bat (Rhinoloph
 
 
 
-!\[ACE2 phylogenetic tree](tree.png)
+![ACE2 phylogenetic tree](tree.png)
 
 ## How to use it
 
