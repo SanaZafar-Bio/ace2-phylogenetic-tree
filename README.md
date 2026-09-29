@@ -19,11 +19,11 @@ Sequences from six species were compared: human, cat, dog, mouse, bat (Rhinoloph
 ## How to use it
 
 1. Download ACE2 mRNA sequences for several species from NCBI (Human, Cat, Dog, Bat, Pangolin, Mouse are commonly compared in the literature).
-2. Combine them into a single FASTA file, with a clear species name in each header line (see `example\_multi\_species.fasta`).
+2. Combine them into a single FASTA file, with a clear species name in each header line (see `example_multi_species.fasta`).
 3. Run:
 
 ```
-   python ace2\_phylogenetic\_tree.py ace2\_multi\_species.fasta
+   python ace2_phylogenetic_tree.py ace2_multi_species.fasta
    ```
 
 4. The tool prints the tree to the screen and saves:
